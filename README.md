@@ -1,12 +1,13 @@
 # 💰 Insurance Charges Predictor  
 > *An intelligent Streamlit web app that predicts medical insurance costs using Machine Learning.*
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://share.streamlit.io/)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)]()  
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-orange?logo=scikitlearn)]()  
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)]()  
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://share.streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)]()
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-orange?logo=scikitlearn)]()
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
 
 ---
+
 
 ## 🧠 Project Overview
 The **Insurance Charges Predictor** is a **machine learning web app** that estimates a person's medical insurance cost based on their **age, BMI, and smoking habits**.  
