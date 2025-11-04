@@ -1,4 +1,4 @@
-# 💰 Insurance Charges Predictor  ffffffff
+# 💰 Insurance Charges Predictor  ffffff
 > *An intelligent Streamlit web app that predicts medical insurance costs using Machine Learning.*
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://share.streamlit.io/)
