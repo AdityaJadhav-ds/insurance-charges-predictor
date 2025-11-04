@@ -25,7 +25,6 @@ This project demonstrates the full ML lifecycle:
 ## 🚀 Live Demo
 Try it instantly on **Streamlit Cloud**  
 👉 [🔗 Launch App](https://insurance-charges-predictor-aditya-jadhav-524.streamlit.app/)  
-*(Replace with your real Streamlit link once deployed)*
 
 ---
 
