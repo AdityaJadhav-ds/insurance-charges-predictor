@@ -108,6 +108,6 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/insurance-charges-predictor.git
+git clone https://github.com/AdityaJadhav-ds/insurance-charges-predictor.git
 cd insurance-charges-predictor
 
